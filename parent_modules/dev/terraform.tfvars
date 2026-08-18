@@ -5,7 +5,17 @@ rgs = {
     location = "East US"
   }
 
+  rg2 = {
 
+    name     = "deepak_rg"
+    location = "Central India"
+  }
+
+    rg3 = {
+
+    name     = "deepak_rg2"
+    location = "Central India"
+  }
 }
 
 
